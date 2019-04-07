@@ -1,0 +1,74 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+    background-image: url("spaceneedle2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  body {
+    background-color: rgba(213, 232, 255, 0.5);
+    width: 800px;
+    height: 760px;
+  }
+
+  header {
+      background-color: rgb(124, 80, 228);
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      padding-left: 40px;
+      margin: 50px;
+      font-size: 30px;
+      display: block;
+  }
+  nav {
+      float: left;
+      width: 128%;
+      font-color: rgb(124, 80, 228);
+  }
+  nav ul {
+      background-color: rgb(124, 80, 228);
+      padding: 10px;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      color:  rgb(226, 193, 224);
+      font-family: Arial, Helvetica, sans-serif;
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+  }
+  a {
+      color: ;
+  }
+  section {
+      font-family: Arial, Helvetica, sans-serif;
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
